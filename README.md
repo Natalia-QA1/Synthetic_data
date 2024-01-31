@@ -1,5 +1,7 @@
 # Synthetic_data
 
+### We need synthetic data (datasets) for user privacy and testing.
+
 ## The datasets provide a comprehensive overview of hypermarket sales, allowing for analysis and exploration of sales performance, customer preferences and behavior, the number of sales and profits.
 
 ### We will have two source datasets
