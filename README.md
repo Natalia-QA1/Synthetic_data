@@ -12,8 +12,10 @@ But both will contain following information:
     - ProductID: product unique identifier (will determine NK)
     - ProductName: short product name
     - ProductDescription: Short product name.
-    - ProductCategory: determine the main group of product classification (e.g. Food, Electronics, etc)
-    - ProductSubcategory: more detailed description (e.g. category Food will contain: Fruits, Cheese, etc)
+    - ProductCategory: determine the main group of product classification 
+      (e.g. Food, Electronics, etc)
+    - ProductSubcategory: more detailed description (e.g. category Food will 
+      contain: Fruits, Cheese, etc)
     - Brand: company which produced a product
     - SupplierID: unique supplier number
     - Supplier: distributor company`s name
@@ -30,7 +32,8 @@ But both will contain following information:
     - CustomerGender: male/female
     - CustomerPhone
     - CustomerEmail
-    - Customer income: annual income for a particular customer (will be necessary in analyzing customer`s patterns)
+    - Customer income: annual income for a particular customer 
+      (will be necessary in analyzing customer`s patterns)
     - CustomerMaritalStatus: single/married/divorced.
 
 #### Payment information:
@@ -66,7 +69,9 @@ But both will contain following information:
     - CourierPhone 
 
 #### Metrics (information that appears in the invoice):
-	- LineCost: total amount in dollars per one product in one particular line in one    invoice
+	- LineCost: total amount in dollars per one product in one particular 
+      line in one invoice
 	- TotalQuantity: the total amount of all products in one invoice
 	- TotalAmount: the total amount paid in dollars for all products in one invoice 
-    - TotalAmountAfterDiscount: the total amount paid in dollars for all products in one invoice after subtracting discount (if it is)
+    - TotalAmountAfterDiscount: the total amount paid in dollars for all products 
+      in one invoice after subtracting discount (if it is)
